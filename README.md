@@ -1,0 +1,2 @@
+# lisztecske
+opencv, blob
